@@ -1,6 +1,7 @@
 /*Google font*/
 @import url("https://fonts.googleapis.com/css2?family=Red+Hat+Display:ital,wght@0,400;0,500;0,700;0,900;1,400;1,500;1,700;1,900&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;1,400;1,700&family=Red+Hat+Display:ital,wght@0,400;0,500;0,700;0,900;1,400;1,500;1,700;1,900&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
 
 /* GLOBAL STYLES */
 * {
@@ -12,7 +13,7 @@
 
 body {
   margin: 0;
-  font-family: "Open Sans", sans-serif;
+  font-family: "Roboto Condensed", sans-serif;
   font-weight: 400;
 }
 
@@ -189,7 +190,7 @@ nav .navbar-nav .nav-item .contact-link{
   color: #4b4f51;
   font-weight: 500;
   line-height: 33px;
-  font-size: 15px;
+  font-size: 16px;
 }
 
 /* PRECAUTION SECTION */
