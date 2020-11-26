@@ -23,4 +23,7 @@ $(".navbar-nav .nav-link").on("click", function (event) {
       }
     );
   } // End if
+
+  $('.navbar-collapse').collapse('hide');
+
 });
