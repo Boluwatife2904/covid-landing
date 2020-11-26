@@ -1,0 +1,10 @@
+@media screen and (max-width: 991px) {
+  nav .navbar-nav .nav-item .nav-link::before,
+  nav .navbar-nav .nav-item .nav-link.active::before {
+      display: none;
+  }
+
+  nav .navbar-nav li{
+      margin-bottom: 15px;
+  }
+}
